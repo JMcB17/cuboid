@@ -10,3 +10,5 @@ Perms
 - Ban Members: super remove bots
 - Send Messages: duh
 - Add Reactions: if I decide to use that for any menus
+
+[WIP] Cuboid is the last discord bot invite link you ever have to click. 'Install' and 'Ununistall' multiple bots all with single commands. Also provides bot information and role management. Custom interface inspired by package managers, made with Python's argparse. Powered by top.gg. Commands: cuboid install {bot1} {bot2} {etc.} cuboid uninstall {bot1} {bot2} {etc.} cuboid show {bot} cuboid search {bot}
